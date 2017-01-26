@@ -1,0 +1,9 @@
+D:\HandsOn\PrintPyramid\PrintPyramid\bin\Debug\PrintPyramid.exe.config
+D:\HandsOn\PrintPyramid\PrintPyramid\bin\Debug\PrintPyramid.exe
+D:\HandsOn\PrintPyramid\PrintPyramid\bin\Debug\PrintPyramid.pdb
+D:\HandsOn\PrintPyramid\PrintPyramid\obj\Debug\PrintPyramid.csprojResolveAssemblyReference.cache
+D:\HandsOn\PrintPyramid\PrintPyramid\obj\Debug\PrintPyramid.exe
+D:\HandsOn\PrintPyramid\PrintPyramid\obj\Debug\PrintPyramid.pdb
+C:\Users\asharma\Documents\GitHub\try\PrintPyramid\PrintPyramid\bin\Debug\PrintPyramid.exe.config
+C:\Users\asharma\Documents\GitHub\try\PrintPyramid\PrintPyramid\obj\Debug\PrintPyramid.exe
+C:\Users\asharma\Documents\GitHub\try\PrintPyramid\PrintPyramid\obj\Debug\PrintPyramid.pdb
